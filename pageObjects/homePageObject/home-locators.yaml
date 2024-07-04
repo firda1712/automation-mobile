@@ -1,0 +1,1 @@
+login_button : '//android.widget.Button[@resource-id="com.eraspace.app.home:id/btnLogin"]'
